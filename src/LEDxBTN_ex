@@ -1,0 +1,14 @@
+int ledC = 2; int ledD = 3; int ledE = 4;
+int ledF = 5; int ledG = 6; int ledA = 7;
+int ledB = 8;
+
+int btnC = 
+
+
+void setup() {
+
+}
+
+void loop() {
+
+}
